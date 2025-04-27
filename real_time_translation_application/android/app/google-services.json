@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "55443923689",
+    "firebase_url": "https://real-time-translation-ap-bc082-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "real-time-translation-ap-bc082",
+    "storage_bucket": "real-time-translation-ap-bc082.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55443923689:android:413b6e6cc5a1b8e4f60678",
+        "android_client_info": {
+          "package_name": "com.example.real_time_translation_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCarzBeT3MrZY_tznMLNMVI4OdJhgC51sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

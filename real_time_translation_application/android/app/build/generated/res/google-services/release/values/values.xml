@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://real-time-translation-ap-bc082-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">55443923689</string>
+    <string name="google_api_key" translatable="false">AIzaSyCarzBeT3MrZY_tznMLNMVI4OdJhgC51sM</string>
+    <string name="google_app_id" translatable="false">1:55443923689:android:413b6e6cc5a1b8e4f60678</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCarzBeT3MrZY_tznMLNMVI4OdJhgC51sM</string>
+    <string name="google_storage_bucket" translatable="false">real-time-translation-ap-bc082.firebasestorage.app</string>
+    <string name="project_id" translatable="false">real-time-translation-ap-bc082</string>
+</resources>
